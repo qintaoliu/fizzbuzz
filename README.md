@@ -2,4 +2,6 @@ fizzbuzz [![Build Status](https://travis-ci.org/ituring/fizzbuzz.png)](https://t
 
 本仓库供本书读者参考用，不接收任何形式的Pull Request，敬请谅解。
 
+add a line!
+
 Pull request 请到 https://github.com/ituring/first-pr 。
